@@ -1,0 +1,11 @@
+public/
+dist/
+build/
+node_modules/
+.vscode/
+
+*.html
+/**/*.min.js
+*.svg
+
+src/index.css
