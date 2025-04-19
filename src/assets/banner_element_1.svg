@@ -1,0 +1,31 @@
+<svg width="126" height="161" viewBox="0 0 126 161" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 269">
+<g id="Group">
+<path id="Vector" d="M76.9979 128.487C19.7092 172.582 -15.1515 157.62 -27.8604 92.0812C-43.7459 26.5891 -12.4762 2.30474 56.2205 27.7577C128.4 52.2888 132.954 86.0019 76.9979 128.487Z" fill="url(#paint0_linear_63_2708)"/>
+<path id="Vector_2" d="M76.998 128.487C19.7643 172.548 -15.487 158.504 -27.8604 92.0813L76.998 128.487ZM76.998 128.487C20.5022 170.492 -12.6921 159.322 -27.8604 92.0813L76.998 128.487ZM-27.8604 92.0813C-41.4704 23.5434 -12.5949 2.0966 56.2205 27.7578L-27.8604 92.0813ZM-27.8604 92.0813C-40.7874 23.6771 -12.9867 2.80008 56.2205 27.7578L-27.8604 92.0813ZM56.2205 27.7578C125.108 51.0099 132.737 84.8838 76.998 128.487L56.2205 27.7578ZM56.2205 27.7578C125.026 53.0638 134.317 85.9938 76.998 128.487L56.2205 27.7578Z" fill="url(#paint1_linear_63_2708)"/>
+</g>
+<path id="Rectangle 499" d="M25.4785 88.8463C26.1402 92.6212 29.7367 95.1449 33.5116 94.4832C37.2864 93.8215 39.8101 90.225 39.1484 86.4502L38.975 85.4606C38.8992 85.0284 38.4875 84.7395 38.0554 84.8153L25.9504 86.9371C25.5182 87.0129 25.2293 87.4246 25.3051 87.8568L25.4785 88.8463Z" fill="black"/>
+<g id="Group 265">
+<g id="Group 263">
+<circle id="Ellipse 158" cx="13.9408" cy="76.0881" r="12.427" transform="rotate(-9.94227 13.9408 76.0881)" fill="white"/>
+<circle id="Ellipse 160" cx="19.2338" cy="75.1604" r="7.05316" transform="rotate(-9.94227 19.2338 75.1604)" fill="black"/>
+</g>
+<circle id="Ellipse 162" cx="22.8149" cy="74.1914" r="2.01519" transform="rotate(-9.94227 22.8149 74.1914)" fill="white"/>
+</g>
+<g id="Group 264">
+<circle id="Ellipse 159" cx="45.4687" cy="70.5616" r="12.427" transform="rotate(-9.94227 45.4687 70.5616)" fill="white"/>
+<circle id="Ellipse 161" cx="50.7618" cy="69.6339" r="7.05316" transform="rotate(-9.94227 50.7618 69.6339)" fill="black"/>
+<circle id="Ellipse 163" cx="53.6811" cy="68.7809" r="2.01519" transform="rotate(-9.94227 53.6811 68.7809)" fill="white"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_63_2708" x1="31.1964" y1="13.1554" x2="54.9022" y2="148.394" gradientUnits="userSpaceOnUse">
+<stop offset="0.293269" stop-color="#80E9FF"/>
+<stop offset="1" stop-color="#7078F0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_63_2708" x1="30.849" y1="12.4981" x2="54.7042" y2="148.589" gradientUnits="userSpaceOnUse">
+<stop offset="0.293269" stop-color="#80E9FF"/>
+<stop offset="1" stop-color="#7078F0"/>
+</linearGradient>
+</defs>
+</svg>
