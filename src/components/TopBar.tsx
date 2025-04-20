@@ -9,7 +9,7 @@ const TopBar = () => {
   const navigate = useNavigate();
 
   const path = location.pathname;
-  const showBack = ['/chats', '/game'].includes(path);
+  const showBack = ['/chats'].includes(path);
 
   return (
     <BarWrapper showBack={showBack}>

@@ -2,8 +2,8 @@ import { createBrowserRouter } from 'react-router-dom';
 
 import LayoutBottom from './layouts/LayoutBottom';
 import LayoutNone from './layouts/LayoutNone';
-import LayoutTop from './layouts/LayoutTop';
 import Chats from './pages/Chats';
+import CollectionDetail from './pages/CollectionDetail';
 import Collections from './pages/Collections';
 import Game from './pages/Game';
 import Home from './pages/Home';
@@ -14,12 +14,16 @@ const router = createBrowserRouter([
     children: [{ path: '/', element: <Home /> }],
   },
   {
-    element: <LayoutTop />,
+    element: <LayoutNone />,
     children: [{ path: '/game', element: <Game /> }],
   },
   {
     element: <LayoutBottom />,
     children: [{ path: '/collections', element: <Collections /> }],
+  },
+  {
+    element: <LayoutNone />,
+    children: [{ path: '/collection/:id', element: <CollectionDetail /> }],
   },
   {
     element: <LayoutBottom />,
